@@ -11,7 +11,7 @@ public class Aula04_Lista01_Ex010 {
         Scanner tec = new Scanner(System.in);
         int alea = ran.nextInt(101); 
         int tnt = 0;
-        int palp = 0;
+        int num = 0;
         
         System.out.println("=================================================");
         System.out.println("");
@@ -22,7 +22,7 @@ public class Aula04_Lista01_Ex010 {
         for (tnt = 1; tnt <= 7; tnt++) {
             System.out.println("");
             System.out.println("Tentativa " + tnt + " : ")
-            int num = tec.nextInt();
+            num = tec.nextInt();
             System.out.println("");
 
             
