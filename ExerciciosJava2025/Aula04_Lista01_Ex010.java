@@ -37,8 +37,7 @@ public class Aula04_Lista01_Ex010 {
     }
         if(num != alea){
              System.out.println("Você não conseguiu adivinhar o número \nO número era " + alea);
-             System.out.println("O número sorteado era " + alea");
-        
+          
         }
             
     }
